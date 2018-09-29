@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MLB Game Day</string>
+    <string name="run">Run</string>
+    <string name="out">Out</string>
+    <string name="homerun">Home Run</string>
+    <string name="resetouts">Reset Outs</string>
+    <string name="resetscore">Reset Score</string>
+    <string name="team_a_name">Boston Red Sox</string>
+    <string name="team_b_name">New York Yankees</string>
+    <string name="background">Central Background</string>
+
+</resources>
